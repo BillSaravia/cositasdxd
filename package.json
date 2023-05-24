@@ -1,0 +1,14 @@
+{
+  "name": "saraviacayotopa",
+  "version": "1.0.0",
+  "description": "Lab06",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bill-Saravia",
+  "license": "ISC",
+  "dependencies": {
+    "underscore": "^1.13.6"
+  }
+}
